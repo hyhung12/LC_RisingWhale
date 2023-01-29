@@ -15,7 +15,8 @@
 |901. Online Stock Span - | Monotonic stack |
 |1244. Design A Leaderboard *  | Most_common |
 |1570. Dot Product of Two Sparse Vectors - | controversial |
-|1472. Design Browser History - |Min max > if else, Check if current index is the last index while len(arr) > index + 1 |
+|1472. Design Browser History - | Min max > if else |
+|| Check if current index is the last index while len(arr) > index + 1 |
 |2424. Longest Uploaded Prefix - | ez |
 |2043. Simple Bank System - | Try except to check if index is in the list |
 |379. Design Phone Directory -| Set |
