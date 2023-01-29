@@ -22,3 +22,30 @@
 |379. Design Phone Directory -| Set |
 |622. Design Circular Queue  | Popular  |
 |2408. Design SQL | |
+
+| Bisect| Comment |
+| ------ | ----------- |
+|2080. Range Frequency Queries - | Bin Search - like|
+|1146. Snapshot Array - | Lee + bin search  |
+|981. Time Based Key-Value Store - | Bin search (try) |
+|911. Online Election * | Bin Search, good lee |
+
+| Iterator| Comment |
+| ------ | ----------- |
+|900. RLE Iterator | Ez + bin search |
+|341. Flatten Nested List Iterator | ez  |
+|284. Peeking Iterator | ez |
+|251. Flatten 2D Vector | good explain |
+
+| Skip | Comment |
+| ------ | ----------- |
+|2349. Design a Number Container System | gg - skip |
+|1357. Apply Discount Every n Orders | long - skip  |
+|211. Design Add and Search Words Data Structure | Trie |
+|271. Encode and Decode Strings | str |
+|1670. Design Front Middle Back Queue | Ez, lee, queue |
+|348. Design Tic-Tac-Toe | stefan |
+|635. Design Log Storage System | Bin Search |
+|2241. Design an ATM Machine | gg - Advanced  |
+|731. My Calendar II | Sol - advanced |
+
